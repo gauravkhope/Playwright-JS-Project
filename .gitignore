@@ -6,7 +6,6 @@ playwright-report
 test-results
 allure-results
 UNWANTED_FILES.md
-Readme.md
 package-lock.json
 package.json
 packagejson.md
